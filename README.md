@@ -1,6 +1,6 @@
 # QA-Portfolio
 Software QA Portfolio | Manual • API • Automation • SQL
-# 👋 Welcome to My QA Portfolio
+#  Welcome to My QA Portfolio
 
 Hi, I'm **Aziza Awad**.
 
@@ -8,9 +8,9 @@ I'm a Software QA Engineer passionate about delivering high-quality software thr
 
 ---
 
-# 📂 QA Projects
+#  QA Projects
 
-## ✅ Manual Testing Portfolio
+##  Manual Testing Portfolio
 
 Complete Manual Testing documentation for SauceDemo including:
 
@@ -22,31 +22,31 @@ Complete Manual Testing documentation for SauceDemo including:
 - Test Execution Reports *(Coming Soon)*
 - Test Summary Reports *(Coming Soon)*
 
-🔗 Repository:
+ Repository:
 
 https://github.com/aziza-awad-qa/QA-Manual-Portfolio
 
 ---
 
-## 🚧 API Testing Portfolio
+##  API Testing Portfolio
 
 Coming Soon...
 
 ---
 
-## 🚧 Automation Testing Portfolio
+##  Automation Testing Portfolio
 
 Coming Soon...
 
 ---
 
-## 🚧 SQL Practice
+##  SQL Practice
 
 Coming Soon...
 
 ---
 
-# 🛠 Skills
+#  Skills
 
 - Manual Testing
 - API Testing
@@ -59,7 +59,7 @@ Coming Soon...
 
 ---
 
-# 📫 Connect with Me
+#  Connect with Me
 
 - LinkedIn: www.linkedin.com/in/aziza-awad
 - GitHub: https://github.com/aziza-awad-qa
