@@ -50,19 +50,26 @@ Coming Soon...
 
 #  Skills
 
-- Manual Testing
-- API Testing
-- Selenium WebDriver
-- Java
-- SQL
-- Jira
-- Postman
-- Git & GitHub
+Manual Testing
+API Testing
+Test Case Design
+Bug Reporting
+Jira
+Postman
+SQL
+Git & GitHub
+Java (Learning)
+Selenium WebDriver (Learning)
 
 ---
 
 #  Connect with Me
 
-- LinkedIn: www.linkedin.com/in/aziza-awad
-- GitHub: https://github.com/aziza-awad-qa
-- Email: azizaawad18@gmail.com
+LinkedIn
+www.linkedin.com/in/aziza-awad
+
+GitHub
+https://github.com/aziza-awad-qa
+
+Email
+azizaawad18@gmail.com
