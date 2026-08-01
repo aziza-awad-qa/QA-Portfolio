@@ -45,18 +45,18 @@ Coming Soon...
 
 ---
 
-#  Skills
+## Skills
 
-Manual Testing
-API Testing
-Test Case Design
-Bug Reporting
-Jira
-Postman
-SQL
-Git & GitHub
-Java (Learning)
-Selenium WebDriver (Learning)
+- Manual Testing
+- API Testing
+- Test Case Design
+- Bug Reporting
+- Jira
+- Postman
+- SQL
+- Git & GitHub
+- Java *(Learning)*
+- Selenium WebDriver *(Learning)*
 
 ---
 
