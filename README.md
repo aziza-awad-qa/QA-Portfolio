@@ -19,8 +19,8 @@ Complete Manual Testing documentation for SauceDemo including:
 - Test Cases
 - Requirement Traceability Matrix (RTM)
 - Bug Reports
-- Test Execution Reports *(Coming Soon)*
-- Test Summary Reports *(Coming Soon)*
+- Test Execution Reports 
+- Test Summary Reports 
 
  Repository:
 
@@ -30,7 +30,7 @@ https://github.com/aziza-awad-qa/QA-Manual-Portfolio
 
 ##  API Testing Portfolio
 
-Coming Soon...
+https://github.com/aziza-awad-qa/QA-API-Portfolio
 
 ---
 
