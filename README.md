@@ -4,7 +4,9 @@ Software QA Portfolio | Manual • API • Automation • SQL
 
 Hi, I'm **Aziza Awad**.
 
-I'm a Software QA Engineer passionate about delivering high-quality software through Manual Testing, API Testing, and Automation Testing.
+Software QA Engineer with experience in Manual Testing and a growing focus on API Testing and Test Automation.
+
+This portfolio showcases my practical QA projects and testing documentation.
 
 ---
 
