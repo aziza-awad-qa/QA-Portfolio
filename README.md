@@ -10,29 +10,26 @@ This portfolio showcases my practical QA projects and testing documentation.
 
 ---
 
-#  QA Projects
+## Projects
 
-##  Manual Testing Portfolio
+| Project | Status |
+|---------|--------|
+| QA-Manual-Portfolio | Completed |
+| QA-API-Portfolio | In Progress |
+| QA-Automation-Portfolio | Planned |
+| SQL Practice | Planned |
 
-Complete Manual Testing documentation for SauceDemo including:
+### QA-Manual-Portfolio
 
-- Test Plan
-- Test Scenarios
-- Test Cases
-- Requirement Traceability Matrix (RTM)
-- Bug Reports
-- Test Execution Reports 
-- Test Summary Reports 
+Complete Manual Testing documentation for SauceDemo.
 
- Repository:
-
-https://github.com/aziza-awad-qa/QA-Manual-Portfolio
+**Repository:** [QA-Manual-Portfolio](https://github.com/aziza-awad-qa/QA-Manual-Portfolio)
 
 ---
 
 ##  API Testing Portfolio
 
-https://github.com/aziza-awad-qa/QA-API-Portfolio
+**Repository:** [QA-API-Portfolio](https://github.com/aziza-awad-qa/QA-API-Portfolio)
 
 ---
 
