@@ -35,7 +35,7 @@ Complete Manual Testing documentation for SauceDemo.
 
 ##  Automation Testing Portfolio
 
-**Repository:**  [QA-Automation-Selenium] (https://github.com/aziza-awad-qa/QA-Automation-Selenium)
+**Repository:** [QA-Automation-Selenium](https://github.com/aziza-awad-qa/QA-Automation-Selenium)
 
 ---
 
