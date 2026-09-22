@@ -15,8 +15,8 @@ This portfolio showcases my practical QA projects and testing documentation.
 | Project | Status |
 |---------|--------|
 | QA-Manual-Portfolio | Completed |
-| QA-API-Portfolio | In Progress |
-| QA-Automation-Portfolio | Planned |
+| QA-API-Portfolio | Completed |
+| QA-Automation-Portfolio | In Progress |
 | SQL Practice | Planned |
 
 ### QA-Manual-Portfolio
