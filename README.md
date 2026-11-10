@@ -41,7 +41,7 @@ Complete Manual Testing documentation for SauceDemo.
 
 ##  SQL Practice
 
-**Repository:** [Coming Soon...](https://github.com/aziza-awad-qa/QA-SQL-Portfolio.git)
+**Repository:** [QA-SQL-Portfolio](https://github.com/aziza-awad-qa/QA-SQL-Portfolio.git)
 
 ---
 
